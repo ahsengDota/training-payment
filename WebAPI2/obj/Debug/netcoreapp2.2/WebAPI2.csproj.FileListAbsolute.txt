@@ -1,0 +1,14 @@
+C:\Users\glenningkan\source\repos\WebAPI2\bin\Debug\netcoreapp2.2\WebAPI2.deps.json
+C:\Users\glenningkan\source\repos\WebAPI2\bin\Debug\netcoreapp2.2\WebAPI2.runtimeconfig.json
+C:\Users\glenningkan\source\repos\WebAPI2\bin\Debug\netcoreapp2.2\WebAPI2.runtimeconfig.dev.json
+C:\Users\glenningkan\source\repos\WebAPI2\bin\Debug\netcoreapp2.2\WebAPI2.dll
+C:\Users\glenningkan\source\repos\WebAPI2\obj\Debug\netcoreapp2.2\WebAPI2.csprojAssemblyReference.cache
+C:\Users\glenningkan\source\repos\WebAPI2\obj\Debug\netcoreapp2.2\WebAPI2.csproj.CoreCompileInputs.cache
+C:\Users\glenningkan\source\repos\WebAPI2\obj\Debug\netcoreapp2.2\WebAPI2.RazorAssemblyInfo.cache
+C:\Users\glenningkan\source\repos\WebAPI2\obj\Debug\netcoreapp2.2\WebAPI2.RazorAssemblyInfo.cs
+C:\Users\glenningkan\source\repos\WebAPI2\obj\Debug\netcoreapp2.2\WebAPI2.AssemblyInfoInputs.cache
+C:\Users\glenningkan\source\repos\WebAPI2\obj\Debug\netcoreapp2.2\WebAPI2.AssemblyInfo.cs
+C:\Users\glenningkan\source\repos\WebAPI2\obj\Debug\netcoreapp2.2\WebAPI2.RazorTargetAssemblyInfo.cache
+C:\Users\glenningkan\source\repos\WebAPI2\bin\Debug\netcoreapp2.2\WebAPI2.pdb
+C:\Users\glenningkan\source\repos\WebAPI2\obj\Debug\netcoreapp2.2\WebAPI2.dll
+C:\Users\glenningkan\source\repos\WebAPI2\obj\Debug\netcoreapp2.2\WebAPI2.pdb
